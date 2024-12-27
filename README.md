@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Muhammad+Zidan+Satrio)](https://git.io/typing-svg)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
   <!-- Bagian kiri -->
-  <div style="width: 60%;">
+  <div style="flex: 1; min-width: 300px;">
     <h1>💫 About Me:</h1>
     <p>🚀 I am an <strong>Information Communication and Technology (ICT) student</strong> at <strong>Asia e University</strong>. I am skilled in web and mobile application programming, with a solid foundation in database management and system design. I am excited to apply my expertise in building impactful and innovative IT solutions while constantly learning and growing in this dynamic field. 💻✨</p>
     <p>👯 I’m very excited and happy to collaborate on <strong>projects together</strong></p>
@@ -17,8 +17,8 @@
   </div>
 
   <!-- Bagian kanan -->
-  <div style="width: 35%; text-align: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" style="max-width: 100%; border-radius: 10px;">
+  <div style="flex: 1; text-align: center; min-width: 300px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" style="max-width: 100%; height: auto; border-radius: 10px;">
   </div>
 </div>
 
