@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Muhammad+Zidan+Satrio)](https://git.io/typing-svg)
 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 <div class="row">
   <div class="col-md-8">
