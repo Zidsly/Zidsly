@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-zidan-satrio-132984227/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=DM+me+on+LinkedIn+%F0%9F%92%BC%E2%9C%A8%F0%9F%A4%9D](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=DM+me+on+LinkedIn+%F0%9F%92%BC%E2%9C%A8%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=DM+me+on+LinkedIn+%F0%9F%92%BC%E2%9C%A8%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div>
 
