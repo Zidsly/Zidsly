@@ -1,7 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <iframe src="https://giphy.com/embed/xUPGGDNsLvqsBOhuU0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0">via GIPHY</a></p>
+![Welcome GIF](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
 
 ---
 
@@ -42,17 +39,9 @@
 
 ---
 
-<div style="text-align: center;">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <iframe src="https://giphy.com/embed/9UocKhDBVbyAbgH0wq/video" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-  <p><a href="https://giphy.com/clips/studiosoriginals-lets-go-9UocKhDBVbyAbgH0wq">via GIPHY</a></p>
-
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <iframe src="https://giphy.com/embed/fhstH5Ma5feYzqo8mT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-  <p><a href="https://giphy.com/gifs/LOCAWORLD-fhstH5Ma5feYzqo8mT">via GIPHY</a></p>
-</div>
+<div align="center">
+<img src="https://media.giphy.com/media/9UocKhDBVbyAbgH0wq/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/fhstH5Ma5feYzqo8mT/giphy.gif" width="300" />
 
 [![](https://visitcount.itsvg.in/api?id=Zidsly&icon=0&color=0)](https://visitcount.itsvg.in)
 
