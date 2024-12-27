@@ -10,14 +10,11 @@
 
 🚀 I am an **Information Communication and Technology (ICT) student** at **Asia e University**. I am skilled in web and mobile application programming, with a solid foundation in database management and system design. I am excited to apply my expertise in building impactful and innovative IT solutions while constantly learning and growing in this dynamic field. 💻✨
 
-<div style="display: flex; align-items: center;">
-  <div>
-    👯 I’m very excited and happy to collaborate on **projects together**  
-    💬 Feel free to ask me anything about **my journey and interests**  
-    ⚡ Fun fact: **I’m a Sports Enthusiast**
-  </div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="150" style="margin-left: 20px;"/>
-</div>
+👯 I’m very excited and happy to collaborate on **projects together**  
+💬 Feel free to ask me anything about **my journey and interests**  
+⚡ Fun fact: **I’m a Sports Enthusiast**
+
+![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ---
