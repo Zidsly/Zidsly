@@ -69,12 +69,14 @@
 ---
 
 <div align="center">
-  <!-- Visitor Count -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Zidsly&icon=0&color=0" alt="Visitor Count" style="margin-bottom: 10px;">
-  </a>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Zidsly&icon=0&color=0" alt="Visitor Count">
+    </a>
+</div> 
 
-  <!-- LinkedIn Typing SVG -->
+<br>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=DM+me+on+LinkedIn+%F0%9F%92%BC%E2%9C%A8%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
