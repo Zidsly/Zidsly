@@ -1,5 +1,6 @@
-![Welcome GIF](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
-
+<div align="center">
+    <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="Welcome GIF" />
+</div>
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Muhammad+Zidan+Satrio)](https://git.io/typing-svg)
@@ -40,9 +41,14 @@
 ---
 
 <div align="center">
+[![](https://visitcount.itsvg.in/api?id=Zidsly&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
+---
+
+<div align="center">
 <img src="https://media.giphy.com/media/9UocKhDBVbyAbgH0wq/giphy.gif" width="300" />
 <img src="https://media.giphy.com/media/fhstH5Ma5feYzqo8mT/giphy.gif" width="300" />
-
-[![](https://visitcount.itsvg.in/api?id=Zidsly&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
