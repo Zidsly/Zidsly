@@ -5,7 +5,9 @@
 ---
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=Hello+Everyone!+%F0%9F%91%8B+I'm+Zids)](https://git.io/typing-svg)
+  <a href="https://www.linkedin.com/in/muhammad-zidan-satrio-132984227/" target="_blank">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=DM+me+on+LinkedIn+%F0%9F%92%BC%E2%9C%A8%F0%9F%A4%9D](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=Hello+Everyone!+%F0%9F%91%8B+I'm+Zids" alt="Typing SVG" />
+  </a>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: nowrap; justify-content: space-between; max-width: 100%; margin: 0 auto;">
