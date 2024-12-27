@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Muhammad+Zidan+Satrio)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AD77&background=FFD8FF00&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Muhammad+Zidan+Satrio)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7AD77&background=FFD8FF00&width=435&lines=Hello+Everyone!+%F0%9F%91%8B+I'm+Zids)](https://git.io/typing-svg))
 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: nowrap; justify-content: space-between; max-width: 100%; margin: 0 auto;">
