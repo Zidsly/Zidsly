@@ -8,6 +8,8 @@
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: nowrap; justify-content: space-between; max-width: 100%; margin: 0 auto;">
   <!-- Bagian kiri -->
+<div class="container">
+  <div class="col-md-6">
   <div style="flex: 1; padding: 10px;">
     <h1>💫 About Me:</h1>
     <p>🚀 I am an <strong>Information Communication and Technology (ICT) student</strong> at <strong>Asia e University</strong>. I am skilled in web and mobile application programming, with a solid foundation in database management and system design. I am excited to apply my expertise in building impactful and innovative IT solutions while constantly learning and growing in this dynamic field. 💻✨</p>
@@ -15,11 +17,15 @@
     <p>💬 Feel free to ask me anything about <strong>my journey and interests</strong></p>
     <p>⚡ Fun fact: <strong>I’m a Sports Enthusiast</strong></p>
   </div>
+    </div>
 
   <!-- Bagian kanan -->
+<div class="col-md-6">
   <div style="flex-shrink: 0; padding: 10px; text-align: center;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" style="max-width: 300px; height: auto; border-radius: 10px;">
   </div>
+</div>
+</div>
 </div>
 
 
